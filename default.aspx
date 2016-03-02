@@ -5,6 +5,6 @@
     <title>Hello World Application - ASP.NET 4.5</title>
 </head>
 <body>
-    <asp:Label runat="server" Text="Changes Modifies now" Font-Size="X-Large"></asp:Label>
+    <asp:Label runat="server" Text="Rebuild" Font-Size="X-Large"></asp:Label>
 </body>
 </html>
